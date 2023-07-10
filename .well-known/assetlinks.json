@@ -1,0 +1,12 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "app.jamming.online",
+                 "sha256_cert_fingerprints": ["32:0d:1f:78:62:4d:c6:8d:b3:d3:6e:5c:82:32:99:46:14:86:84:8f:51:56:d5:f2:c0:24:39:e3:28:fb:ab:a5"] }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "app.jamming.online",
+                 "sha256_cert_fingerprints": ["32:d4:01:d4:da:89:08:92:3f:28:5d:72:ba:4c:a2:f1:0a:cf:dd:ff:e1:79:c5:35:56:64:67:4a:92:7c:9a:34"] }
+  }
+  ]
+  
